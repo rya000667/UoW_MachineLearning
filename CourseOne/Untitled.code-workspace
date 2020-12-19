@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Downloads/people_wiki.sframe"
+		},
+		{
+			"path": "../../Downloads/people_wiki-2.sframe"
+		},
+		{
+			"path": "../../Downloads/home_data.sframe"
+		},
+		{
+			"path": "../../Downloads/house_images"
+		}
+	],
+	"settings": {}
+}
