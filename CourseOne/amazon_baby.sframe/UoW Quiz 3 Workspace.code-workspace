@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "UoW_MachineLearning",
+			"path": "../../UoW_MachineLearning"
+		},
+		{
+			"name": "amazon_baby.sframe",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
